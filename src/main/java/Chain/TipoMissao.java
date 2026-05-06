@@ -1,4 +1,4 @@
 package Chain;
 
-public class TipoMissao {
+public interface TipoMissao {
 }
